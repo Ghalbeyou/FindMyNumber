@@ -16,6 +16,5 @@ Generate the number you gaved to the app! (Easy scary!)
 - Go to releases
 - Get the latest version
 - Run the exe file
-- Open the app from the desktop
 - Have fun
 # IF YOU LIKED THIS REPO, GIVE IT A STAR
